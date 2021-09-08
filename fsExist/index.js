@@ -19,7 +19,7 @@ const server = http.createServer(function(req, res) {
 
         });
 
-        //synchronous file delete
+        //synchronous file exist
         // let result = fs.existsSync('synchronousRename.txt')
 
         // if (result) {
